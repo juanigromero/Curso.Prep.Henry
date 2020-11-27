@@ -1,0 +1,15 @@
+1- VARIABLES: Las variables son palabras que encierran el significado de otra palabra o de un conjunto de ellas internamente relacionadas.
+              Es decir son como el título de un libro. Hacemos referencia a un libro por su título, nombramos el mismo, pero a lo que nos
+              referimos con citando el título de la obra es al conjunto de palabras que se relacionan dentro de sus paginas y que crean el
+              relato. Cuando citamos una variable, esta encierra en si distintos significados que nosotros podemos asignar. 
+              En el caso de una función es como ponerle título a la misma y luego referirse a la misma por él y no enumerando sus términos.
+2- STRINGS: Los strings son cadenas de caracteres, un caracter puede ser una letra, un número, un simbolo. A su vez, uniendo estos caracteres
+            podemos crear palabras, numeros mas grandes, oraciones, y un sinfín de combinaciones. Estos siempre van entre ' '
+3-FUNCIONES: Asi como las variables, una función es una palabra en representación de algo más. En este caso de una acción a ejecutar que debe
+             devolvernos una respuesta dependiendo de la orden que le demos. Por ejemplo, una función puede representar la suma de dos
+             números y nosotros al invocarla le podemos dar la orden de que los dos números que sume sean 4 y 9 por ejemplo, o el que nosotros
+             queramos.
+4-DECLARACIONES: Las declaraciones son la asignación de una relación, es decir, nosotros podemos declarar que la variable "Pelo" significa
+                 "5.000.000 de capilares". Allí estamos asignando una relación, entre "Pelo" y "5.000.000 de capilares"
+5-VALORES BOOLEANOS: Los valores booleanos es tan simple como un verdadero y falso. Podemos hacer que una función este en representación de
+                     una dualidad, es decir, podemos hacer que para ciertas cosas que le digamos, nos de verdadero, y para otras falso
