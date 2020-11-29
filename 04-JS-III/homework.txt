@@ -1,0 +1,3 @@
+ARRAY: El array funciona como una caja organizadora lineal, es decir que ahi dentro se pueden guardar cosas pero en fila. Los elementos que
+       tengamos ahi adentro los podemos consultar, fijarnos cual esta en cada lugar, cambiar uno por cualquier otro(este o no ya incluido en
+       nuestra caja organizadora)y sacar o meter elementos.
