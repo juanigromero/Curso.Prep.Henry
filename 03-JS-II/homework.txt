@@ -1,0 +1,7 @@
+FOR: Es uno de los metodos para hacer que la computadora genere números desde donde queramos hasta donde queramos, es decir si yo necesito
+     generar numeros del 1 al 500.000, en vez de escribirlos uno por uno, puedo hacer que la consola los escriba por su cuenta y luego usarlos
+     o condicionarlos para lo que necesite. Por ejemplo si quiero solo cierta cantidad de numeros de los que se encuentran en ese conjunto
+     desde el 1 al 500.000.
+&&:  Es como la letra y. Como si decimos voy a cantar y pintar. para que sea verdadero debo hacer las dos, o todas las cosas que digamos
+||:  Es como la letra o. Como si decimos voy a cantar o pintar. Con que una de las dos sea verdadera alcanza
+! :  Es como la negación(No). Si decimos no voy a cantar y efectivamente canto, es falso
