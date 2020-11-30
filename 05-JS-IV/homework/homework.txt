@@ -1,0 +1,18 @@
+OBJETOS: Los objetos son como recipientes(por ejemplo una caja) que al abrirla encontramos recipientes mas chicos(cajitas) dentro. Estas cajitas 
+	 dentro suyo tambien guardan algo y tienen nombre para que podamos encontrarlas facilmente. A su vez la caja grande tambien tiene nombre
+	 por si se da que tenemos muchas cajas grandes, asi podremos encontrarla tambien facilmente
+
+PROPIEDADES: Las propiedades son las cajitas chiquitas de las que hable en la explicación anterior
+
+METODOS: A veces estas cajitas o propiedades encierran dentro una función, es decir que dentro tienen una acción que va a ser realizada cuando
+	 la invoquemos.
+BUCLE: El bucle 'for..in' sirve para recorrer todas las cajitas de manera automatica y en cada variable que queramos aplicar un cambio o
+       una accion
+
+NOTACION DE PUNTOS VS NOTACION DE CORCHETES: La notación de puntos lo que hace es buscar dentro del objeto la cajita chiquita con el nombre que
+					     pongamos luego del punto, si la encuentra, nos devuelve lo que haya dentro de ella.
+					     La notación de corchetes hace lo mismo pero tiene una variante. Si al valor dentro de los corchetes
+					     lo hacemos en forma de string, es decir, entre comillas, actuará igual que el de puntos. Pero si
+					     lo hacemos sin las comillas, comenzará a buscar por fuera una variable que dentro tenga una
+				  	     cajita igual a alguna de las de dentro del objeto, si la encuentra, elegira la cajita similar
+					     que se encuentra dentro del objeto.
