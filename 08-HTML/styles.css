@@ -1,0 +1,44 @@
+#spanId {
+  		font-size: 18px;		
+}
+#thirdDiv {
+      display: flex;
+  		height: 750px;
+  		width: 500px;
+  		background: lightblue;
+		  padding: 50px auto;
+  		border: thick double #32a1ce;
+      flex-direction: column;
+      justify-content:;		
+}
+#thirdDiv div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  margin: 10px auto;
+  font-size: 18px
+}
+.listax span{
+  margin: 10px;
+}
+img{
+		width: 400px;
+    margin: 10px
+}
+body {
+  		background-color: #ffdd90;
+  		background-image: url(pexels-madison-inouye-1831234.jpg);
+		  background-size: 100% 100%;
+		  background-attachment: fixed;
+      }
+.flexcontainer{
+    display: flex;
+    flex-direction: column; 
+}
+.flexcontainer div{
+    width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+

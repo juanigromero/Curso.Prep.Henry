@@ -1,0 +1,53 @@
+
+body{
+    background-color: skyblue;
+    background-image: url(alex-shutin-kKvQJ6rK6S4-unsplash.jpg);
+
+}
+#conteiner{
+    background-color: skyblue;
+    max-width: 700px;
+    margin: auto;
+    height: 900px;
+    
+}
+.descripcion{
+    max-height: 400px;
+    overflow: auto;
+    zoom: 1;
+    margin: 30px;
+}
+.descripcion img{
+    float: right;
+    height: 100%;
+    width: 35%;
+    margin-top: 10px;
+    }
+.contdesc{
+    width: 75%;
+}
+
+.personal{
+        display: -webkit-flex;
+        display: flex;
+}
+.listasa{
+    -webkit-flex: initial;
+    flex: initial;
+    width: 500px;
+    min-width: 100px;
+    margin-left: 30px;
+}
+.listasb{
+    -webkit-flex: 1;
+          flex: 1;
+          right: 0;
+          
+}
+.eduex{
+    text-align: center;
+}
+#titulo{
+    text-align: center;
+    padding: 20px;
+}
